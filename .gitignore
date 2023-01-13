@@ -3,3 +3,7 @@ target/**/node_modules
 history_log.txt
 testCases_log.txt
 commit-command.sh
+**/node_modules
+history_log.txt
+testCases_log.txt
+commit-command.sh
